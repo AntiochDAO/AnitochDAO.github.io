@@ -1,12 +1,12 @@
 <script setup></script>
+
+import ancientLibrary from "@/assets/img/ancient-library.png";
+
 <template>
   <div class="container mt-sm-5">
     <div
       class="page-header py-6 py-md-5 my-sm-3 mb-3 border-radius-xl"
-      :style="{
-        backgroundImage:
-          'url(https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/desktop.jpg)'
-      }"
+      :style="`background-image: url(${ancientLibrary})`"
       loading="lazy"
     >
       <span class="mask bg-gradient-dark"></span>

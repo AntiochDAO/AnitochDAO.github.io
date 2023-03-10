@@ -61,14 +61,14 @@ onUnmounted(() => {
         <div class="row">
           <div class="col-lg-7 text-center mx-auto position-relative">
             <h1
-              class="text-glow-rainbow pt-3 mt-n5 me-2"
+              class="text-glow-green pt-3 mt-n5 me-2"
               :style="{ display: 'inline-block ' }"
             >
               AntiochDAO
             </h1>
-            <p class="lead text-glow-rainbow px-5 mt-3" :style="{ fontWeight: '500' }">
+            <h3 class="lead text-glow-green" :style="{ fontWeight: '800' }">
               The Digital Media Archive Collective
-            </p>
+            </h3>
           </div>
         </div>
       </div>

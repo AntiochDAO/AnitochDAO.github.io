@@ -7,7 +7,7 @@ defineProps({
     logo: String,
     route: "",
     default: () => ({
-      name: "Material Kit 2",
+      name: "AntiochDAO",
       logo: logoDark,
       route: "/"
     })
@@ -18,25 +18,17 @@ defineProps({
     link: String,
     default: () => [
       {
-        icon: '<i class="fab fa-facebook text-lg opacity-8"></i>',
-        link: "https://www.facebook.com/CreativeTim/"
-      },
-      {
         icon: '<i class="fab fa-twitter text-lg opacity-8"></i>',
-        link: "https://twitter.com/creativetim"
-      },
-      {
-        icon: '<i class="fab fa-dribbble text-lg opacity-8"></i>',
-        link: "https://dribbble.com/creativetim"
+        link: "https://twitter.com/AntiochDAO"
       },
       {
         icon: '<i class="fab fa-github text-lg opacity-8"></i>',
-        link: "https://github.com/creativetimofficial"
+        link: "https://github.com/AntiochDAO"
       },
-      {
-        icon: '<i class="fab fa-youtube text-lg opacity-8"></i>',
-        link: "https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w"
-      }
+      // {
+      //   icon: '<i class="fab fa-youtube text-lg opacity-8"></i>',
+      //   link: "https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w"
+      // }
     ]
   },
   menus: {
@@ -49,75 +41,45 @@ defineProps({
     },
     default: () => [
       {
-        name: "company",
+        name: "about us",
         items: [
           {
-            name: "about us",
-            href: "https://www.creative-tim.com/presentation"
+            name: "Ken Hodler",
+            href: ""
           },
-          {
-            name: "freebies",
-            href: "https://www.creative-tim.com/templates/free"
-          },
-          {
-            name: "premium tools",
-            href: "https://www.creative-tim.com/templates/premium"
-          },
-          { name: "blog", href: "https://www.creative-tim.com/blog" }
         ]
       },
       {
         name: "resources",
         items: [
-          { name: "illustrations", href: "https://iradesign.io/" },
           {
-            name: "bits & snippets",
-            href: "https://www.creative-tim.com/bits"
+            name: "Scaling Ethereum Hackathon 2023",
+            href: "https://ethglobal.com/events/scaling2023"
+          },
+          { name: "Filecoin Virtual Machine", href: "https://fvm.filecoin.io/" },
+          {
+            name: "OpenZeppelin Governor",
+            href: "https://docs.openzeppelin.com/contracts/4.x/api/governance"
           },
           {
-            name: "affiliate program",
-            href: "https://www.creative-tim.com/affiliates/new"
+            name: "TableLand",
+            href: "https://tableland.xyz/"
           }
         ]
+      },
+      {
+        name: "",
+        items: []
       },
       {
         name: "help & support",
         items: [
           {
             name: "contact us",
-            href: "https://www.creative-tim.com/contact-us"
+            href: "sendto:antiochdao@gmail.com"
           },
-          {
-            name: "knowledge center",
-            href: "https://www.creative-tim.com/knowledge-center"
-          },
-          {
-            name: "custom development",
-            href: "https://services.creative-tim.com/"
-          },
-          {
-            name: "sponsorships",
-            href: "https://www.creative-tim.com/sponsorships"
-          }
         ]
       },
-      {
-        name: "legal",
-        items: [
-          {
-            name: "terms & conditions",
-            href: "https://www.creative-tim.com/terms"
-          },
-          {
-            name: "privacy policy",
-            href: "https://www.creative-tim.com/privacy"
-          },
-          {
-            name: "licenses (EULA)",
-            href: "https://www.creative-tim.com/license"
-          }
-        ]
-      }
     ]
   }
 });
