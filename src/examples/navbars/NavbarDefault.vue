@@ -910,7 +910,7 @@ watch(
 <!--          </li>-->
           <li class="nav-item dropdown dropdown-hover mx-2">
             <a
-              href="https://github.com/Digital-Media-Archive-Collective"
+              href="https://github.com/AntiochDAO"
               class="nav-link d-flex cursor-pointer align-items-center"
             >
               <svg
