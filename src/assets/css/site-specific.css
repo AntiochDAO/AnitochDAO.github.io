@@ -1,0 +1,23 @@
+.text-glow-green {
+    color: #fff;
+    text-shadow: 0 0 7px #fff,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 42px #0fa,
+        0 0 82px #0fa,
+        0 0 92px #0fa,
+        0 0 102px #0fa,
+        0 0 151px #0fa;
+}
+.text-glow-rainbow {
+    color: #fff;
+    text-shadow: 0 0 7px red,
+    0 0 10px orange,
+    0 0 21px yellow,
+    0 0 31px green,
+    0 0 42px blue,
+    0 0 82px indigo,
+    0 0 92px violet;
+    /*0 0 102px #000;*/
+    /*0 0 151px #000;*/
+}
