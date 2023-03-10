@@ -120,7 +120,7 @@ watch(
         title="The Digital Media Archive Collective"
         data-placement="bottom"
       >
-        DigimacDAO
+        AntiochDAO
       </RouterLink>
       <RouterLink
         class="navbar-brand d-block d-md-none"

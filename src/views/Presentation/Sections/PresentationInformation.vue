@@ -13,8 +13,10 @@ import DefaultInfoCard from "../../../examples/cards/infoCards/DefaultInfoCard.v
             <RotatingCardFront
               image="https://images.unsplash.com/photo-1569683795645-b62e50fbf103?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
               icon="touch_app"
-              title="Mass communication <br /> IS <br /> Digital Media"
-              description="Digital Media Archive Collective aims to archive and preserve digital media"
+              title="Digital Media files are the modern equivalent of the ancient scrolls"
+              description="They contain the history, culture, and knowledge of our era. AntiochDAO
+              curates and archives important digital media in a decentralized, robust, and economical
+              manner"
             />
 
             <RotatingCardBack

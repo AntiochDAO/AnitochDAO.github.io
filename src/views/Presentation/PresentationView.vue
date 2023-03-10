@@ -64,11 +64,10 @@ onUnmounted(() => {
               class="text-glow-rainbow pt-3 mt-n5 me-2"
               :style="{ display: 'inline-block ' }"
             >
-              The Digital Media Archive Collective
+              AntiochDAO
             </h1>
             <p class="lead text-glow-rainbow px-5 mt-3" :style="{ fontWeight: '500' }">
-              Curating and archiving important cultural and historical digital media in a decentralized,
-              robust, and economical manner
+              The Digital Media Archive Collective
             </p>
           </div>
         </div>
@@ -78,7 +77,7 @@ onUnmounted(() => {
 
   <div class="card card-body blur shadow-blur mx-3 mx-md-4 mt-n6">
 <!--    <PresentationCounter />-->
-<!--    <PresentationInformation />-->
+    <PresentationInformation />
 <!--    <PresentationExample :data="data" />-->
 <!--    <PresentationPages />-->
 <!--    <BuiltByDevelopers />-->
