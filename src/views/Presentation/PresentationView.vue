@@ -15,9 +15,9 @@ import PresentationCounter from "./Sections/PresentationCounter.vue";
 import PresentationPages from "./Sections/PresentationPages.vue";
 import PresentationExample from "./Sections/PresentationExample.vue";
 import data from "./Sections/Data/designBlocksData";
-import BuiltByDevelopers from "./Components/BuiltByDevelopers.vue";
 import PresentationTestimonials from "./Sections/PresentationTestimonials.vue";
 import PresentationInformation from "./Sections/PresentationInformation.vue";
+import WhatIsAntioch from "./Components/WhatIsAntioch.vue";
 
 //images
 import vueMkHeader from "@/assets/img/many-screens.jpg";
@@ -77,10 +77,10 @@ onUnmounted(() => {
 
   <div class="card card-body blur shadow-blur mx-3 mx-md-4 mt-n6">
 <!--    <PresentationCounter />-->
-    <PresentationInformation />
+<!--    <PresentationInformation />-->
 <!--    <PresentationExample :data="data" />-->
 <!--    <PresentationPages />-->
-<!--    <BuiltByDevelopers />-->
+    <WhatIsAntioch />
 
 <!--    <div class="container">-->
 <!--      <div class="row">-->
