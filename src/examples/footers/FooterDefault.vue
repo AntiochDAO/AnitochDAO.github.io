@@ -45,7 +45,7 @@ defineProps({
         items: [
           {
             name: "Ken Hodler",
-            href: ""
+            href: "https://twitter.com/bgok"
           },
         ]
       },
@@ -75,8 +75,12 @@ defineProps({
         name: "help & support",
         items: [
           {
+            name: "report an issue",
+            href: "https://github.com/AntiochDAO/AntiochDAO/issues/new/choose"
+          },
+          {
             name: "contact us",
-            href: "sendto:antiochdao@gmail.com"
+            href: "sendto:info@antiochdao.com"
           },
         ]
       },
