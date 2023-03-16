@@ -35,11 +35,11 @@ Media that is unavailable from other sources will be prioritized for perpetual p
 We will try to be sensitive to creator rights. If a creator asks us to make their media unavailable, we will do so until the copyright expires. If a creator allows us to distribute their media, they will be entitled to a portion of the retrieval fee that we charge.
 
 ## To do
-[x] Apply to FVM Launch (request for startup)
-[ ] Apply to the TableLand program to build the index
-[ ] Develop and submit the DAO to EthGlobal Scaling Hackathon
-[ ] Apply for a Filecoin micro-grant: https://github.com/filecoin-project/devgrants/issues/new?assignees=mishmosh&labels=type%3Amicrogrant&template=microgrant.md&title=Next+Step+Microgrant%3A+%3CYour+Title+Here%3E
-[ ] Register the ENS name: https://app.ens.domains/name/antiochdao.org/register
+- [x] Apply to FVM Launch (request for startup)
+- [ ] Apply to the TableLand program to build the index
+- [ ] Develop and submit the DAO to EthGlobal Scaling Hackathon
+- [ ] Apply for a Filecoin micro-grant: https://github.com/filecoin-project/devgrants/issues/new?assignees=mishmosh&labels=type%3Amicrogrant&template=microgrant.md&title=Next+Step+Microgrant%3A+%3CYour+Title+Here%3E
+- [ ] Register the ENS name: https://app.ens.domains/name/antiochdao.org/register
 
 ## Questions
 If you have questions or want to learn how to support this project, email us at [AntiochDAO@gmail.com](mailto:AntiochDAO@gmail.com).
